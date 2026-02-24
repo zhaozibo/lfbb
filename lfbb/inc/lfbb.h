@@ -7,7 +7,7 @@
  **************************************************************/
 
 /**************************************************************
- * Copyright (c) 2022 Djordje Nedic
+ * Copyright (c) 2022-2026 Djordje Nedic
  *
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated
@@ -34,7 +34,7 @@
  * This file is part of LFBB - Lock Free Bipartite Buffer
  *
  * Author:          Djordje Nedic <nedic.djordje2@gmail.com>
- * Version:         1.3.7
+ * Version:         1.3.8
  **************************************************************/
 
 /************************** INCLUDE ***************************/

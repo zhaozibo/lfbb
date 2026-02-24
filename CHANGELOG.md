@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.8
+
+- Avoided potential false sharing due to wrapping indexes for performance
+
 ## 1.3.7
 
 - Added a performance optimization, where the atomic invalidate index load can be avoided after writing wraps

@@ -1,10 +1,10 @@
 # Project CMakeLists
-# Djordje Nedic 2022
+# Djordje Nedic 2022-2026
 
 cmake_minimum_required(VERSION 3.16)
 
 project(lfbb
-    VERSION 1.3.7
+    VERSION 1.3.8
     LANGUAGES C CXX
 )
 
